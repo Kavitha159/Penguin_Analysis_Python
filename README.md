@@ -86,12 +86,4 @@ When grouping by island:
 
 The Penguins dataset demonstrates meaningful variability across penguin species, with clear measurable distinctions based on physical traits. The dataset is clean, interpretable, and well-suited for predictive modeling, statistical analysis, and clustering.
 
-### **8. Future Enhancements**
 
-- Classification modeling (Logistic Regression, Random Forest, SVM)
-
-- Clustering (K-Means or Hierarchical Clustering)
-
-- Statistical hypothesis testing (ANOVA, t-tests)
-
-- Feature engineering and encoding for ML tasks
